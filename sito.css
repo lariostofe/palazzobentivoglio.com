@@ -283,6 +283,11 @@
 #t_rest{
   background-image: url("cornicione in restauro.png");
 }
+#immmaquette{
+  margin: auto;
+  display: block;
+  width: 80%
+}
 #divimmfoglia{
   width: 30%;
   float: right;

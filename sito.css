@@ -113,6 +113,11 @@
   font-family: 'Poppins', sans-serif;
   text-decoration: none;
 }
+#linka{
+  color: #202328;
+  font-size: 15px;
+  text-decoration: underline;
+}
 #pathmob{
   font-family: 'Poppins', sans-serif;
   margin-top: 20px;

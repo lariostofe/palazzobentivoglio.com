@@ -109,8 +109,9 @@
 }
 .link{
   color: #202328;
-  font-size: inherit;
+  font-size: 12px;
   font-family: 'Poppins', sans-serif;
+  text-decoration: none;
 }
 #pathmob{
   font-family: 'Poppins', sans-serif;
@@ -131,11 +132,11 @@
   color: #202328;
 }
 #nota{
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Raleway', sans-serif;
   color: #202328;
   padding-left: 60px;
   padding-right: 40px;
-  font-size: 14px;
+  font-size: 13px;
   font-weight: 300;
 }
 

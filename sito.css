@@ -116,6 +116,7 @@
 #linka{
   color: #202328;
   font-size: 15px;
+  font-family: 'Raleway', sans-serif;
   text-decoration: underline;
 }
 #pathmob{
@@ -820,8 +821,11 @@
 
   .link{
     color: #202328;
-    font-size: inherit;
+    font-size: 11px;
     font-weight: inherit;
+  }
+  #linka{
+    font-size: 13px;
   }
 
   #titoletto{
@@ -834,7 +838,7 @@
     color: #202328;
   }
   #nota{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway', sans-serif;
     color: #202328;
     padding-left: 25px;
     padding-right: 35px;

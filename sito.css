@@ -1189,7 +1189,11 @@
   .pgfcom{
     display: block;
   }
-
+  
+  #pdx{
+    font-size: 13px;
+  }
+ 
   #stemmadiv{
     margin: auto;
     display: block;

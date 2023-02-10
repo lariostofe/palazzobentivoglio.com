@@ -172,7 +172,7 @@
   border-top: 1px solid #2b2e34;
   color: #202328;
   background-color: #f9f8f8;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Raleway', sans-serif;
   text-align: center;
   font-size: 14px;
   line-height: 20px;
@@ -397,6 +397,7 @@
 
 #pdx{
   margin-left: 35px;
+  font-size: 15px;
 }
 
 #immalfonsodiv{

@@ -593,6 +593,10 @@
   width: 30%;
 }
 
+#tombaimm{
+  width:70%;
+}
+
 
 /* NOTE: Città */
 #t_citt{
@@ -1253,6 +1257,10 @@
     margin: auto;
     display: block;
     width: 70%;
+  }
+  
+  #tombaimm{
+    width:90%;
   }
 
   /* NOTE: Città */

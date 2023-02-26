@@ -594,8 +594,9 @@
 }
 
 #tombaimm{
+  width:60%;
   margin: auto;
-  width:70%;
+  display: block;
 }
 
 
